@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="Figure_DbConnectionString-Web.config Connection String" description="Figure_DbConnectionString Connection String used in web.config by the application to access the database." defaultValue="Server=SQL5102.site4now.net;Database=db_aa42c6_figuresdb;User Id=db_aa42c6_figuresdb_admin;Password=kanekii1" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\WorkSpace\\ASP\.NET\\Figure_Shop\\Figure_Shop\\Figure_Shop\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='Figure_DbConnectionString']/@connectionString" />
+  </parameter>
+  <parameter name="Figure_DbConnectionString2-Web.config Connection String" description="Figure_DbConnectionString2 Connection String used in web.config by the application to access the database." defaultValue="Server=SQL5102.site4now.net;Database=db_aa42c6_figuresdb;User Id=db_aa42c6_figuresdb_admin;Password=kanekii1" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\WorkSpace\\ASP\.NET\\Figure_Shop\\Figure_Shop\\Figure_Shop\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='Figure_DbConnectionString2']/@connectionString" />
+  </parameter>
+  <parameter name="Figure_DbConnectionString3-Web.config Connection String" description="Figure_DbConnectionString3 Connection String used in web.config by the application to access the database." defaultValue="Server=SQL5102.site4now.net;Database=db_aa42c6_figuresdb;User Id=db_aa42c6_figuresdb_admin;Password=kanekii1" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\WorkSpace\\ASP\.NET\\Figure_Shop\\Figure_Shop\\Figure_Shop\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='Figure_DbConnectionString3']/@connectionString" />
+  </parameter>
+</parameters>
